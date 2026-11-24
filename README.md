@@ -1,5 +1,7 @@
 # Andrii Zhmuryk
 
+<img src="andrii-zhmuryk.jpg" alt="Portrait d'Andrii Zhmuryk" width="150" align="right">
+
 **Développeur IA & Fullstack, Paris.** Disponible immédiatement en CDI ou CDD, présentiel ou hybride en Île-de-France, autorisé à travailler en France sans restriction.
 
 **AI & full-stack developer, Paris.** Available immediately for a permanent or fixed-term contract, on-site or hybrid in the Paris region, authorised to work in France.
@@ -8,6 +10,8 @@
 
 Le portfolio rassemble des études de cas, des maquettes cliquables et des films : chaque chiffre y vient d'un dépôt ou d'un produit qui tourne, et chaque projet dit ce qu'il est et ce qu'il n'est pas.
 The portfolio has case studies, clickable mock-ups and short films: every figure comes from a repository or a running product, and each project says what it is and what it is not.
+
+<br clear="right">
 
 ## Projets / Projects
 
